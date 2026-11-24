@@ -1,5 +1,5 @@
 --Write a PL/SQL block 
-which converts temperature from Celsius to Fahrenheit.
+--which converts temperature from Celsius to Fahrenheit.
 
 set serveroutput on 
 declare
